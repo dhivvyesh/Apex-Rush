@@ -1,0 +1,12 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/APEX-Rush-Ultra.html"
+    }
+  ]
+}
